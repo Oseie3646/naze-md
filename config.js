@@ -1,8 +1,8 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Recode By Emmy 
+   * Contact Me on wa.me/2349015367237
+   * Follow https://github.com/oseie3646
 */
 
 const fs = require('fs')
@@ -19,16 +19,16 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['2349015367237']
+global.ownernomer = "2349015367237"
+global.premium = ['2349015367237']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
-global.sessionName = 'nazedev'  //jangan diganti bro nanti error
+global.author = 'emmy'
+global.sessionName = 'kempachi'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['#']
 global.sp = ''
 
 // Setting Mess
@@ -59,15 +59,12 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
+global.mygit = 'https://github.com/oseie3646'
 global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'kempachi bot'
+global.akulaku = 'Bot By Emmy'
 
 
 let file = require.resolve(__filename)
